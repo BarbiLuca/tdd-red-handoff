@@ -2,7 +2,7 @@
 
 The design agreed in the grilling session of 2026-08-06. Decisions and their reasons live in
 `docs/adr/0001`–`0006`; this file is the shape they add up to and the order of work. Vocabulary:
-`CONTEXT.md`.
+`GLOSSARY.md`.
 
 ## What changes, in one paragraph
 
